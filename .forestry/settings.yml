@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/en/home
   label: Home
-  create: all
+  create: documents
   match: "**"
 - type: directory
   path: content/en
