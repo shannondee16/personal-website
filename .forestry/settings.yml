@@ -8,11 +8,11 @@ sections:
   path: content/en/home
   label: Home
   create: all
-  match: "**/*"
+  match: "**"
 - type: directory
   path: content/en
   label: Pages
-  create: all
+  create: documents
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
