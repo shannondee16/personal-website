@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Testy test"
 weight = 10
 
