@@ -8,3 +8,4 @@ fields:
 - type: number
   name: weight
   label: weight
+  default: 10
